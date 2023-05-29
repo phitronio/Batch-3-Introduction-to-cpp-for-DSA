@@ -8,7 +8,7 @@ class Student
         int cls;
         char section;
 
-        Student(int r,int s,int c,char* n)
+        Student(int r,char s,int c,char* n)
         {
             roll=r;
             section=s;
